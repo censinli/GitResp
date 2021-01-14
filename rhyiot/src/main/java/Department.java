@@ -24,5 +24,6 @@ public class Department {
     public   void test(){
         System.out.println("jljlj");
         System.out.println("ceshi");
+        System.out.println("新IDE测试GIT");
     }
 }
