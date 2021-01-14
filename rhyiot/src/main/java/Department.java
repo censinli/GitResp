@@ -19,5 +19,9 @@ public class Department {
     public static void main(String[] args) {
         String deptname ="caiwubu";
         String deptno = "00001";
+
+    }
+    public   void test(){
+        System.out.println("jljlj");
     }
 }
